@@ -1,0 +1,9 @@
+Hello world.
+How are you doing today?I am adding a new line.
+
+I am adding another line.
+
+I am adding another line.
+The final layer in the Linux system is the hardware, 
+consisting of the physical or electronic devices that make up your computer. This layer can include the following: The central processing unit, or CPU, which is responsible for executing most calculations. 
+The random access memory, or RAM, which is a fast storage unit used to hold the temporary information your applications need to run. Storage for data that needs to persist when your computer is powered off.
